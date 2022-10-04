@@ -13,3 +13,7 @@ Very basic app with a simple animation where the user can add and remove items f
 - loops
 
 :smile:
+
+## Screenshots
+
+![FAQ Cards](screenshot.png)
