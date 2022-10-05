@@ -4,8 +4,7 @@ Very basic app with a simple animation where the user can add and remove items f
 
 ## JavaScript used:
 
--Arrays
-
+- Arrays
 - Local Storage
 - DOM manipulations
 - Functions
