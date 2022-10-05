@@ -8,9 +8,9 @@ Very basic app with a simple animation where the user can add and remove items f
 
 - Local Storage
 - DOM manipulations
-- functions
-- conditionals
-- loops
+- Functions
+- Conditionals
+- Loops
 
 :smile:
 
